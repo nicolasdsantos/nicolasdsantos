@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicolas Santos</h1>
 <h3 align="center">I believe in the potential of data as a strategic asset to drive efficiency and decision-making.</h3>
 
-- 🌱 I’m currently learning **about data science,as I delve deeper into this field, I aim to master various techniques such as machine learning, statistical analysis, and data visualization to unlock the full potential of data as a strategic asset.**
+- 🌱 I’m currently learning **about data science, as i delve deeper into this field, I aim to master various techniques such as machine learning, statistical analysis, and data visualization to unlock the full potential of data as a strategic asset.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
